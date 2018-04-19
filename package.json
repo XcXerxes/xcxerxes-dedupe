@@ -1,0 +1,27 @@
+{
+  "name": "xcxerxes-dedupe",
+  "version": "0.0.1",
+  "description": "this is a array methods use dedupe any",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XcXerxes/xcxerxes-dedupe.git"
+  },
+  "keywords": [
+    "[node",
+    "array",
+    "dedupe]"
+  ],
+  "author": "xcxerxes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XcXerxes/xcxerxes-dedupe/issues"
+  },
+  "homepage": "https://github.com/XcXerxes/xcxerxes-dedupe#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
