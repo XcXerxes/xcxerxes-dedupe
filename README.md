@@ -1,4 +1,4 @@
-# xcxerxes-array-last [![NPM version](https://img.shields.io/npm/v/xcxerxes-dedupe.svg)](https://www.npmjs.com/package/xcxerxes-dedupe) [![Build Status](https://travis-ci.org/XcXerxes/xcxerxes-dedupe.svg)](https://travis-ci.org/XcXerxes/xcxerxes-dedupe.svg)
+# xcxerxes-dedupe [![NPM version](https://img.shields.io/npm/v/xcxerxes-dedupe.svg)](https://www.npmjs.com/package/xcxerxes-dedupe) [![Build Status](https://travis-ci.org/XcXerxes/xcxerxes-dedupe.svg)](https://travis-ci.org/XcXerxes/xcxerxes-dedupe.svg)
 
 remove duplicates elem
 
